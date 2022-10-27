@@ -10,7 +10,7 @@ and a resume section where my resume can be downloaded and my skills are highlig
 
 https://fcarter09.github.io/my-portfolio/
 
-<-------------------------------------------------------------------------------------------------------------------------------------->
+<---------------------------------------------------------------------------------------------------------------------->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
