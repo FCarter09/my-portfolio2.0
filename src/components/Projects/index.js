@@ -20,7 +20,7 @@ function Projects() {
                          |
                         <a href="https://github.com/FCarter09/whats-cooking.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
-                        <a href="https://whats-cooking-recipebook.herokuapp.com/"><img src={whatsCookingImage} alt="What's Cooking?"/></a>  
+                        <a href="https://whats-cooking-recipebook.herokuapp.com/"><img src={whatsCookingImage} alt="What's Cooking?"/></a>      
                     </div>
                     <div className="single-project" id="media-shelf">
                         <h2 className="title">Media Shelf

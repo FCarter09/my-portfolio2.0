@@ -63,7 +63,9 @@ function ContactForm() {
                 <p className="error-text">{errorMessage}</p>
             </div>
             )}
+            <div className="field">
             <button class='button' type="submit">Submit</button>
+            </div>
           </form>
         </section>
       );
