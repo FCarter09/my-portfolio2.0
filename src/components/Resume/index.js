@@ -9,7 +9,7 @@ function Resume() {
         <section>
             <h1 className="page-header">Resume</h1>
             <div className="resume-document">
-            <a href={myDocument} class="document" download>Click to download resume</a>
+            <a href={myDocument} className="document" download>Click to download resume</a>
             </div>
             <div className="skill-title">
                 <h3 className="frontend">Front-End Skills</h3>
