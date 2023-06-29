@@ -15,7 +15,7 @@ function Nav(props) {
              <ul className="nav-list">
                 {props.categories.map((category) => 
 
-                   <li className="categories"> <span onClick={() => props.setPage(category.name)}>{category.name} </span>
+                   <li className="categories"><span onClick={() => props.setPage(category.name)}>{category.name} </span>
                         
                   </li> 
                 )}

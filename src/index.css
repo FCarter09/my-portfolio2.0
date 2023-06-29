@@ -46,6 +46,12 @@ header h2 a {
 
 }
 
+h2 {
+
+  display: inline-block
+
+}
+
 header h2 a:hover {
   text-decoration: underline;
   text-decoration-color: rgb(24, 94, 119); ;
