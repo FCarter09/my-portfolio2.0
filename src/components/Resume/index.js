@@ -17,8 +17,10 @@ function Resume() {
             <ul className="frontend-skill-list">
                 <li>HTML</li>
                 <li>CSS</li>
+                <li>Responsive Design</li>
                 <li>JavaScript</li>
                 <li>JQuery</li>
+
             </ul>
             <div className="skill-title">
                 <h3 className="backend">Back-End Skills</h3>

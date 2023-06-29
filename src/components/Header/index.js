@@ -6,7 +6,7 @@ import '../../index.css'
 function Nav(props) {
      return (
         <header>
-            <h2>
+            <h2 className='my-name'>
                 <a id ="link" href="/">
                 <h1 className="header-title">Forest Carter </h1>
                 </a>
