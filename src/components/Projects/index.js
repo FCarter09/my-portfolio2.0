@@ -21,7 +21,8 @@ function Projects() {
                         <a href="https://github.com/FCarter09/whats-cooking.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
                         <a href="https://whats-cooking-recipebook.herokuapp.com/"><img src={whatsCookingImage} alt="What's Cooking?"/></a>
-                        {/* <p>Hungry or need a new recipe? What's Cooking? is full of ideas</p>       */}
+                        <p className="description">Need new recipes? 'What's Cooking?' is full of ideas to add to your cooking arsenal 
+                        or you can add your very own recipes for others to see. </p>      
                     </div>
                     <div className="single-project" id="media-shelf">
                         <h2 className="title">Media Shelf
@@ -29,7 +30,8 @@ function Projects() {
                         <a href="https://github.com/FCarter09/Media-Shelf.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
                         <a href="https://fcarter09.github.io/Media-Shelf/"><img src={mediaShelfImage} alt="Media Shelf"/></a>
-                        
+                        <p className="description">Need ideas for movies or books? Visit 'Media Shelf' where you can randomly search over 100 movies and books.
+                         You can also save any movies or books of interests to your personal shelf. </p>   
                    </div>
                 </div>
         </div>
