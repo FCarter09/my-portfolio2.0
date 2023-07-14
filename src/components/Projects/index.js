@@ -2,10 +2,10 @@ import React from 'react';
 import '../../App.css';
 import whatsCookingImage from '../../assets/images/whats-cooking.jpg';
 import mediaShelfImage from '../../assets/images/media-shelf.jpg';
-import workDaySchedulerImage from  '../../assets/images/workday-scheduler.jpg';
+import quizChallengeImage from  '../../assets/images/quiz-challenge.jpg';
 import noteTakerImage from '../../assets/images/note-taker.jpg';
-import pizzaHuntImage from '../../assets/images/pizza-hunt.jpg';
-import taskmasterProImage from '../../assets/images/taskmasterpro.jpg';
+import weatherAppImage from '../../assets/images/weather-app.jpg';
+import petShopImage from '../../assets/images/pet-shop.jpg';
 
 
 
@@ -31,43 +31,51 @@ function Projects() {
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
                         <a href="https://fcarter09.github.io/Media-Shelf/"><img src={mediaShelfImage} alt="Media Shelf"/></a>
                         <p className="description">Need ideas for movies or books? Visit 'Media Shelf' where you can randomly search over 100 movies and books.
-                         You can also save any movies or books of interests to your personal shelf. </p>   
+                         You can also save any movies or books of interests to your personal shelf for future reference. </p>   
                    </div>
                 </div>
         </div>
         <div className="section-two">
                 <div className="project-row">
-                    <div className="single-project" id="workday-scheduler">
-                        <h2 className="title">Workday Scheduler
+                    <div className="single-project" id="quiz-challenge">
+                        <h2 className="title">Quiz Challenge
                          |
-                        <a href="https://github.com/FCarter09/calender.git"className="githubBtn">
+                        <a href="https://github.com/FCarter09/Quiz-Challenge.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
-                        <a href="https://fcarter09.github.io/calender/"><img src={workDaySchedulerImage} alt="Media Shelf"/></a>
+                        <a href="https://fcarter09.github.io/Quiz-Challenge/"><img src={quizChallengeImage} alt="Quiz Challenge"/></a>
+                        <p className='description'>Quiz Challenge is a simple quiz for those who are interested in testing fundamental knowledge of coding.
+                        This app has a select few of questions to test basic coding knowledge.</p>
                     </div>
-                    <div className="single-project" id="notetaker">
+                    <div className="single-project" id="note-taker">
                         <h2 className="title">Note Taker
                          |
                         <a href="https://github.com/FCarter09/note-taker.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
-                        <a href="https://note-taker-planner.herokuapp.com/"><img src={noteTakerImage} alt="Media Shelf"/></a>
+                        <a href="https://note-taker-planner.herokuapp.com/"><img src={noteTakerImage} alt="Note Taker"/></a>
+                        <p className='description'>Note Taker helps you to organize your thoughts and ideas. With Note Taker you will be
+                        able to plan accordingly for project development or set reminders for yourself. </p>
                    </div>
                 </div>
         </div>
         <div className="section-three">
                 <div className="project-row">
-                    <div className="single-project" id="pizza-hunt">
-                        <h2 className="title">Pizza Hunt
+                    <div className="single-project" id="weather-app">
+                        <h2 className="title">Weather App
                         |
-                        <a href="https://github.com/FCarter09/pizza-hunt.git"className="githubBtn">
+                        <a href="https://github.com/FCarter09/weather-app.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
-                        <a href="https://pizza-hunt-22.herokuapp.com/"><img src={pizzaHuntImage} alt="Media Shelf"/></a>
+                        <a href="https://fcarter09.github.io/weather-app/"><img src={weatherAppImage} alt="Weather App"/></a>
+                        <p className='description'>Weather App is a basic application to help you keep track of your weather. 
+                        Weather App provides the current and five-day weather forecast for the city of your choice.</p>
                      </div>
-                    <div className="single-project" id="taskmaster-pro">
-                        <h2 className="title">Taskmaster Pro
+                    <div className="single-project" id="pet-shop">
+                        <h2 className="title">Pet Shop
                         |
-                        <a href="https://github.com/FCarter09/taskmaster-pro.git"className="githubBtn">
+                        <a href="https://github.com/FCarter09/pet-shop.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
-                        <a href="https://fcarter09.github.io/taskmaster-pro/"><img src={taskmasterProImage} alt="Media Shelf"/></a>
+                        <a href="https://pet-shop22.herokuapp.com/"><img src={petShopImage} alt="Pet Shop"/></a>
+                        <p className='description'>Pet Shop is an application designed for you and your pets. With Pet Shop, you can create a portfolio for your pets and select specific
+                        services for your pets.</p>
                     </div>
                 </div>
         </div>

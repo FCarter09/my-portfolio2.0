@@ -15,9 +15,13 @@ function About() {
             </div>
             <p className="about-me">
                 Hi, my name is Forest Carter. I am from Buckingham County, Virginia. 
-                I am currently working towards the goal of becoming a certified web developer. 
-                I am attending a coding bootcamp through the Richmond University to learn about web development and help prepare me for a career in the software development field. 
-                I look forward to continuing learning process and my growth in respects to web development.
+                I began my journey in web development in May 2022. I attended a coding program at Richmond University where I 
+                became certified as a Full-Stack Web Developer in November 2022. Before I began my transition into the tech field I was a case manager
+                for about 8 years in the greater Richmond, Virginia area. As a case manager, I worked with at-risk youth and their families in a variety settings to include
+                school, home, and community settings. My experience as a case manager has helped me to grow as a person as well as understanding
+                the importance of relationships with clients and working alongside others. I have enjoyed the challenge of learning skills in
+                web development. It allows me to embrace a more creative side of problem-solving and design.
+                I look forward to continuing my learning process and growth in respects to this career.
 
             </p>
         </section>

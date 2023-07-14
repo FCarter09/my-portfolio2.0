@@ -33,7 +33,13 @@ main{
   text-align: center
 }
 
-#whats-cooking, #media-shelf {
+#whats-cooking, 
+#media-shelf,
+#note-taker,
+#quiz-challenge,
+#weather-app,
+#pet-shop
+ {
   /* border: 1px solid red; */
   width: 100%; 
   display:inline-block

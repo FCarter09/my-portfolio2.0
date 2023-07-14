@@ -86,7 +86,14 @@ function ContactForm() {
     return (
         <section>
           <h1 className='page-header'>Contact me</h1>
-          <form id="contact-form" onSubmit={sendEmail} >
+          <form className="contact-form" onSubmit={sendEmail} >
+
+       
+            <p className='contact-infoText'>PHONE: 434-547-7528</p>
+            <p className='contact-infoText'>OR</p>
+            <p className='contact-infoText'>Message me below:</p>
+          
+            
            <div className="field">
             <label  htmlFor="name">Name:</label>
             <input ref={senderName} type="text" name="name" defaultValue={name} onBlur={handleChange} />
