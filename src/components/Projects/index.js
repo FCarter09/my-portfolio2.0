@@ -74,7 +74,7 @@ function Projects() {
                         <a href="https://github.com/FCarter09/pet-shop.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
                         <a href="https://pet-shop22.herokuapp.com/"><img src={petShopImage} alt="Pet Shop"/></a>
-                        <p className='description'>Pet Shop is an application designed for you and your pets. With Pet Shop, you can create a portfolio for your pets and select specific
+                        <p className='description'>(Minimal Viable Product). Pet Shop is an application designed for you and your pets. With Pet Shop, you can create a portfolio for your pets and select specific
                         services for your pets.</p>
                     </div>
                 </div>
