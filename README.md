@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio2.0
 
 ## Description
 
@@ -7,6 +7,4 @@ The portfolio presents a projects section that features six of my projects. It a
 and a resume section where my resume can be downloaded and my skills are highlighted.
 
 ## Link to App
-
-Add Link Here
-<---------------------------------------------------------------------------------------------------------------------->
+https://fcarter09.github.io/my-portfolio2.0/
