@@ -176,6 +176,14 @@ button {
   }
 }
 
+@media screen and (max-width: 305px) {
+  nav  {
+
+    margin-left: 1px; 
+  
+  }
+}
+
 
 
 

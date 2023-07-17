@@ -167,5 +167,11 @@ img:hover{
   
 }
 
+@media screen and (max-width: 378px) {
+  img{
+    max-width: 80%;
+  }
+}
+
 
 
