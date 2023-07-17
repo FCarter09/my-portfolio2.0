@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio2.0/static/css/main.cf9b1955.css",
+    "main.css": "/my-portfolio2.0/static/css/main.bdb171f0.css",
     "main.js": "/my-portfolio2.0/static/js/main.91102e6a.js",
     "static/js/787.1ee55212.chunk.js": "/my-portfolio2.0/static/js/787.1ee55212.chunk.js",
     "static/media/Forest_Carter_Resume-1.pdf": "/my-portfolio2.0/static/media/Forest_Carter_Resume-1.fb3897fba9a7d0e80fab.pdf",
@@ -11,12 +11,12 @@
     "static/media/quiz-challenge.jpg": "/my-portfolio2.0/static/media/quiz-challenge.f85049922d9a915528c4.jpg",
     "static/media/pet-shop.jpg": "/my-portfolio2.0/static/media/pet-shop.5aec137d3acbd8e15f30.jpg",
     "index.html": "/my-portfolio2.0/index.html",
-    "main.cf9b1955.css.map": "/my-portfolio2.0/static/css/main.cf9b1955.css.map",
+    "main.bdb171f0.css.map": "/my-portfolio2.0/static/css/main.bdb171f0.css.map",
     "main.91102e6a.js.map": "/my-portfolio2.0/static/js/main.91102e6a.js.map",
     "787.1ee55212.chunk.js.map": "/my-portfolio2.0/static/js/787.1ee55212.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf9b1955.css",
+    "static/css/main.bdb171f0.css",
     "static/js/main.91102e6a.js"
   ]
 }
