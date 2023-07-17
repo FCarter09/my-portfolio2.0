@@ -6,11 +6,11 @@ import '../../index.css'
 function Nav(props) {
      return (
         <header>
-            <h2 className='my-name'>
-                <a id ="link" href="About">
-                <h1 className="header-title">Forest Carter </h1>
-                </a>
-            </h2>
+            
+            <div className='my-name'>
+                <h1 className="header-title">Forest Carter </h1>    
+            </div>
+
             <nav>
              <ul className="nav-list">
                 {props.categories.map((category) => 
