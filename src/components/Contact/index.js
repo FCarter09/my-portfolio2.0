@@ -91,7 +91,7 @@ function ContactForm() {
        
             <p className='contact-infoText'>PHONE: 434-547-7528</p>
             <p className='contact-infoText'>OR</p>
-            <p className='contact-infoText'>Message me below:</p>
+            <p className='contact-infoText'>MESSAGE me below:</p>
           
             
            <div className="field">

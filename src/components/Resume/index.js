@@ -1,6 +1,6 @@
 import React from 'react';
 import '../../App.css';
-import myDocument from '../../assets/documents/Forest_Carter_Resume-1.pdf'
+import myDocument from '../../assets/documents/Forest Carter Resume.pdf'
 
 
 
