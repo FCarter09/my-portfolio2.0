@@ -46,7 +46,19 @@ function ContactForm() {
         })
         .then(function(response) {
           console.log('Email sent!', response.status, response.text);
-          alert('Your e-mail was successfully sent.')
+
+          // notify user email was sent
+          var emailSent = document.querySelector('.email-sent')
+          emailSent.textContent = 'Your e-mail was successfully sent.'
+
+          // clear 'emailSent' message after 2 seconds
+          setTimeout(() => {
+
+            emailSent.innerHTML = ""
+            
+          }, 2000);
+      
+          // alert('Your e-mail was successfully sent.')
           onClear()
           
         }, function(error) {
@@ -85,6 +97,7 @@ function ContactForm() {
     // JSX
     return (
         <section>
+          <p className='email-sent'>  </p>
           <h1 className='page-header'>Contact me</h1>
           <form className="contact-form" onSubmit={sendEmail} >
 
