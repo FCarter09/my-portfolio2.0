@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-portfolio2.0/static/css/main.bdb171f0.css",
-    "main.js": "/my-portfolio2.0/static/js/main.048c41b3.js",
+    "main.css": "/my-portfolio2.0/static/css/main.0530cd74.css",
+    "main.js": "/my-portfolio2.0/static/js/main.4afdc7a4.js",
     "static/js/787.1ee55212.chunk.js": "/my-portfolio2.0/static/js/787.1ee55212.chunk.js",
     "static/media/Forest Carter Resume.pdf": "/my-portfolio2.0/static/media/Forest Carter Resume.5bddeebdf0b90a99558d.pdf",
     "static/media/media-shelf.jpg": "/my-portfolio2.0/static/media/media-shelf.f63d9795b2a1e904fbb2.jpg",
-    "static/media/weather-app.jpg": "/my-portfolio2.0/static/media/weather-app.9eeb810d5918a257b768.jpg",
     "static/media/whats-cooking.jpg": "/my-portfolio2.0/static/media/whats-cooking.460584db709ec4d6a197.jpg",
     "static/media/note-taker.jpg": "/my-portfolio2.0/static/media/note-taker.af83a80639c744d3eb89.jpg",
     "static/media/quiz-challenge.jpg": "/my-portfolio2.0/static/media/quiz-challenge.f85049922d9a915528c4.jpg",
     "static/media/pet-shop.jpg": "/my-portfolio2.0/static/media/pet-shop.5aec137d3acbd8e15f30.jpg",
+    "static/media/weather-app.jpg": "/my-portfolio2.0/static/media/weather-app.0f15dc2bd0421010bfec.jpg",
     "index.html": "/my-portfolio2.0/index.html",
-    "main.bdb171f0.css.map": "/my-portfolio2.0/static/css/main.bdb171f0.css.map",
-    "main.048c41b3.js.map": "/my-portfolio2.0/static/js/main.048c41b3.js.map",
+    "main.0530cd74.css.map": "/my-portfolio2.0/static/css/main.0530cd74.css.map",
+    "main.4afdc7a4.js.map": "/my-portfolio2.0/static/js/main.4afdc7a4.js.map",
     "787.1ee55212.chunk.js.map": "/my-portfolio2.0/static/js/787.1ee55212.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdb171f0.css",
-    "static/js/main.048c41b3.js"
+    "static/css/main.0530cd74.css",
+    "static/js/main.4afdc7a4.js"
   ]
 }
