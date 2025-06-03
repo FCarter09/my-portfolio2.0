@@ -51,7 +51,7 @@ function Projects() {
                          |
                         <a href="https://github.com/FCarter09/note-taker.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
-                        <a href="https://note-taker-planner.herokuapp.com/"><img src={noteTakerImage} alt="Note Taker"/></a>
+                        <a href="https://note-taker2022-6ab55f36d259.herokuapp.com/"><img src={noteTakerImage} alt="Note Taker"/></a>
                         <p className='description'>Note Taker helps you to organize your thoughts and ideas. With Note Taker you will be
                         able to plan accordingly for project development or set reminders for yourself. </p>
                    </div>
