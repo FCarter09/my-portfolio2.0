@@ -5,7 +5,7 @@ import mediaShelfImage from '../../assets/images/media-shelf.jpg';
 import quizChallengeImage from  '../../assets/images/quiz-challenge.jpg';
 import noteTakerImage from '../../assets/images/note-taker.jpg';
 import weatherAppImage from '../../assets/images/weather-app.jpg';
-import petShopImage from '../../assets/images/pet-shop.jpg';
+import bookSearchEngineImage from '../../assets/images/book-search-engine.jpg';
 
 
 
@@ -68,14 +68,15 @@ function Projects() {
                         <p className='description'>Weather App is a basic application to help you keep track of your weather. 
                         Weather App provides the current and five-day weather forecast for the city of your choice.</p>
                      </div>
-                    <div className="single-project" id="pet-shop">
-                        <h2 className="title">Pet Shop
+                    <div className="single-project" id="book-search-engin-engine">
+                        <h2 className="title">Book Search Engine
                         |
-                        <a href="https://github.com/FCarter09/pet-shop.git"className="githubBtn">
+                        <a href="https://github.com/FCarter09/book-search-engine.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
-                        <a href="https://pet-shop2022-2d79e031c89d.herokuapp.com/"><img src={petShopImage} alt="Pet Shop"/></a>
-                        <p className='description'>(Minimal Viable Product). Pet Shop is an application designed for you and your pets. With Pet Shop, you can create a portfolio for your pets and select specific
-                        services for your pets.</p>
+                        <a href="https://book-search-engine2022-296917473e6e.herokuapp.com/"><img src={bookSearchEngineImage} alt="Book Search Engine"/></a>
+                        <p className='description'>Book Search Engine is an application designed for users to search for books they may like to read in the furture. Users can save their selected 
+                            books to their profile and can always return later to decide which book they may want to read next.
+                        </p>
                     </div>
                 </div>
         </div>
