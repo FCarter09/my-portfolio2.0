@@ -73,7 +73,7 @@ function Projects() {
                         |
                         <a href="https://github.com/FCarter09/book-search-engine.git"className="githubBtn">
                         <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
-                        <a href="https://book-search-engine2022-296917473e6e.herokuapp.com/"><img src={bookSearchEngineImage} alt="Book Search Engine"/></a>
+                        <a href="https://book-search-engine2022-591655cf8786.herokuapp.com/"><img src={bookSearchEngineImage} alt="Book Search Engine"/></a>
                         <p className='description'>Book Search Engine is an application designed for users to search for books they may like to read in the furture. Users can save their selected 
                             books to their profile and can always return later to decide which book they may want to read next.
                         </p>
