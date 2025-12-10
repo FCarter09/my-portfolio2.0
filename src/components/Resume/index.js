@@ -20,6 +20,7 @@ function Resume() {
                 <li>Responsive Design</li>
                 <li>JavaScript</li>
                 <li>JQuery</li>
+                <li>React</li>
 
             </ul>
             <div className="skill-title">
@@ -32,7 +33,6 @@ function Resume() {
                 <li>Sequelize</li>
                 <li>MVC</li>
                 <li>MongoDB</li>
-                <li>React</li>
                 <li>MERN</li>
             </ul>
 
