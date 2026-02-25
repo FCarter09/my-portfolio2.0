@@ -11,7 +11,7 @@ function About() {
         <section className='about-section'>
             <h1 className="page-header">About Me</h1>
             <div>
-                <h1 className="userIcon"><FontAwesomeIcon icon={faUser} size="6x" style={{ color: 'white' }}/></h1>
+                <h1 className="userIcon"><FontAwesomeIcon icon={faUser} size="6x" style={{ color: 'rgb(24, 94, 119)' }}/></h1>
             </div>
             <p className="about-me">
                 Hi, my name is Forest Carter. I am from Buckingham County, Virginia. 

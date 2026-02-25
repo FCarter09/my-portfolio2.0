@@ -37,7 +37,7 @@ function ContactForm() {
 
         emailjs.init('H3NJfFo9gZa01JpAU');
 
-        emailjs.send('service_o8mik3w', 'template_ebqyw4p', {
+        emailjs.send('service_oqkh18j', 'template_ebqyw4p', {
           // Replace the placeholders with actual form data
           name: name,
           email: email,
@@ -56,7 +56,7 @@ function ContactForm() {
 
             emailSent.innerHTML = ""
             
-          }, 2000);
+          }, 5000);
       
           // alert('Your e-mail was successfully sent.')
           onClear()
@@ -78,7 +78,7 @@ function ContactForm() {
 
             // isValid conditional statement
             if (!isValid) {
-                setErrorMessage('Your email is invalid.');
+                setErrorMessage('Your email is required.');
               } else {
                 setErrorMessage('');
               } 

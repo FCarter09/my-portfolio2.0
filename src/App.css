@@ -1,10 +1,10 @@
 main{
-  background-color: rgb(24, 94, 119);
+  background-color: white;
   
 }
 
 .title{
-  color: rgb(226, 223, 226);
+  color: rgb(24, 94, 119);
   /* font-family: 'Roboto', sans-serif; */
   font-weight: 500;
   margin: 5px 0;
@@ -61,7 +61,7 @@ img:hover{
 
 .page-header{
   text-align: center;
-  color: bisque;
+  color: rgb(24, 94, 119);
   padding-top: 20px;
   margin-bottom: 20px
 }
@@ -73,12 +73,12 @@ img:hover{
   text-align: left;
   margin-right: 100px;
   margin-left: 100px;
-  color: bisque;
+  color: rgb(24, 94, 119);
   padding-bottom: 500px;
 }
 
 .description {
-  color: bisque;
+  color: rgb(24, 94, 119);
   font-size: 14px; 
   text-align: left;
 
@@ -87,14 +87,14 @@ img:hover{
 
 
 .document{
-  color: bisque;
+  color:rgb(24, 94, 119);
   text-decoration: none;
 }
 
 
 .skill-title{
   text-align: center;
-  color: bisque;
+  color: rgb(24, 94, 119);
   margin-bottom: 20px
 }
 
@@ -103,7 +103,7 @@ img:hover{
   margin-right: 0px;
   list-style: none;
   text-align: center;
-  color: bisque;
+  color: rgb(24, 94, 119);
   margin-bottom: 20px
 }
 
@@ -111,7 +111,7 @@ img:hover{
   margin-right: 0px;
   list-style: none;
   text-align: center;
-  color: bisque;
+  color: rgb(24, 94, 119);
   padding-bottom: 100px;
   margin-bottom: 0px
   
@@ -120,7 +120,7 @@ img:hover{
 
 .resume-document{
   text-align: center;
-  color: bisque;
+  color: rgb(24, 94, 119);
   text-decoration: none;
   margin-bottom: 20px
   
@@ -133,7 +133,7 @@ img:hover{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(226, 223, 226);
+  background-color:rgb(223, 218, 223);
   position: fixed;
   bottom: 0;
   width: 100%;

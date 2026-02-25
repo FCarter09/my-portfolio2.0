@@ -19,7 +19,7 @@ function Projects() {
                         <h2 className="title">What's Cooking?
                          |
                         <a href="https://github.com/FCarter09/whats-cooking.git"className="githubBtn">
-                        <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
+                        <i className="fab fa-github mr-2" style={{ color: 'rgb(24, 94, 119)' }}></i></a></h2>
                         <a href="https://whats-cooking2022-9af3ae3a6d1a.herokuapp.com/"><img src={whatsCookingImage} alt="What's Cooking?"/></a>
                         <p className="description">Need new recipes? 'What's Cooking?' is full of ideas to add to your cooking arsenal 
                         or you can add your very own recipes for others to see. </p>      
@@ -28,7 +28,7 @@ function Projects() {
                         <h2 className="title">Media Shelf
                          |
                         <a href="https://github.com/FCarter09/Media-Shelf.git"className="githubBtn">
-                        <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
+                        <i className="fab fa-github mr-2" style={{ color: 'rgb(24, 94, 119)' }}></i></a></h2>
                         <a href="https://fcarter09.github.io/Media-Shelf/"><img src={mediaShelfImage} alt="Media Shelf"/></a>
                         <p className="description">Need ideas for movies or books? Visit 'Media Shelf' where you can randomly search over 100 movies and books.
                          You can also save any movies or books of interests to your personal shelf for future reference. </p>   
@@ -41,7 +41,7 @@ function Projects() {
                         <h2 className="title">Quiz Challenge
                          |
                         <a href="https://github.com/FCarter09/Quiz-Challenge.git"className="githubBtn">
-                        <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
+                        <i className="fab fa-github mr-2" style={{ color: 'rgb(24, 94, 119)' }}></i></a></h2>
                         <a href="https://fcarter09.github.io/Quiz-Challenge/"><img src={quizChallengeImage} alt="Quiz Challenge"/></a>
                         <p className='description'>Quiz Challenge is a simple quiz for those who are interested in testing fundamental knowledge of coding.
                         This app has a select few of questions to test basic coding knowledge.</p>
@@ -50,7 +50,7 @@ function Projects() {
                         <h2 className="title">Note Taker
                          |
                         <a href="https://github.com/FCarter09/note-taker.git"className="githubBtn">
-                        <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
+                        <i className="fab fa-github mr-2" style={{ color: 'rgb(24, 94, 119)' }}></i></a></h2>
                         <a href="https://note-taker2022-6ab55f36d259.herokuapp.com/"><img src={noteTakerImage} alt="Note Taker"/></a>
                         <p className='description'>Note Taker helps you to organize your thoughts and ideas. With Note Taker you will be
                         able to plan accordingly for project development or set reminders for yourself. </p>
@@ -63,7 +63,7 @@ function Projects() {
                         <h2 className="title">Weather App
                         |
                         <a href="https://github.com/FCarter09/weather-app.git"className="githubBtn">
-                        <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
+                        <i className="fab fa-github mr-2" style={{ color: 'rgb(24, 94, 119)' }}></i></a></h2>
                         <a href="https://fcarter09.github.io/weather-app/"><img src={weatherAppImage} alt="Weather App"/></a>
                         <p className='description'>Weather App is a basic application to help you keep track of your weather. 
                         Weather App provides the current and five-day weather forecast for the city of your choice.</p>
@@ -72,7 +72,7 @@ function Projects() {
                         <h2 className="title">Book Search Engine
                         |
                         <a href="https://github.com/FCarter09/book-search-engine.git"className="githubBtn">
-                        <i className="fab fa-github mr-2" style={{ color: 'rgb(226, 223, 226)' }}></i></a></h2>
+                        <i className="fab fa-github mr-2" style={{ color: 'rgb(24, 94, 119)' }}></i></a></h2>
                         <a href="https://book-search-engine2022-591655cf8786.herokuapp.com/"><img src={bookSearchEngineImage} alt="Book Search Engine"/></a>
                         <p className='description'>Book Search Engine is an application designed for users to search for books they may like to read in the furture. Users can save their selected 
                             books to their profile and can always return later to decide which book they may want to read next.
