@@ -21,6 +21,7 @@ function Resume() {
                 <li>JavaScript</li>
                 <li>JQuery</li>
                 <li>React</li>
+                <li>Handlebars</li>
 
             </ul>
             <div className="skill-title">
