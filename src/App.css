@@ -27,10 +27,10 @@ main{
 }
 
 .project-row{
-  display: flex;
+   display: flex;
   justify-content: center;
-  align-items: center;
-  text-align: center
+  align-items: flex-start;
+  
 }
 
 #whats-cooking, 
@@ -38,7 +38,7 @@ main{
 #note-taker,
 #quiz-challenge,
 #weather-app,
-#pet-shop
+#book-search-engine
  {
   /* border: 1px solid red; */
   width: 100%; 
@@ -46,8 +46,22 @@ main{
 }
 
 .single-project{
+  text-align: left;
   margin: 20px;
   
+}
+
+.single-project img {
+  width: 100%;
+  max-width: 400px;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
+.single-project p {
+  margin: 0 0 10px;
 }
 
 
@@ -77,13 +91,18 @@ img:hover{
   padding-bottom: 500px;
 }
 
-.description {
+.description, .tech-stack, .live-demo {
   color: rgb(24, 94, 119);
   font-size: 14px; 
   text-align: left;
+  padding-bottom: 10px;
 
 }
 
+.demo-link {
+
+   color: rgb(24, 94, 119);
+}
 
 
 .document{
