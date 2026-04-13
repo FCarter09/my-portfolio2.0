@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/my-portfolio2.0/static/css/main.5344134a.css",
-    "main.js": "/my-portfolio2.0/static/js/main.9147a512.js",
+    "main.css": "/my-portfolio2.0/static/css/main.6d3b8b39.css",
+    "main.js": "/my-portfolio2.0/static/js/main.8c046904.js",
     "static/js/787.1ee55212.chunk.js": "/my-portfolio2.0/static/js/787.1ee55212.chunk.js",
-    "static/media/Forest Carter Resume.pdf": "/my-portfolio2.0/static/media/Forest Carter Resume.c3f221329a59e8ec291b.pdf",
+    "static/media/Forest Carter Resume.pdf": "/my-portfolio2.0/static/media/Forest Carter Resume.6fa9862927de8802dac3.pdf",
     "static/media/media-shelf.jpg": "/my-portfolio2.0/static/media/media-shelf.f63d9795b2a1e904fbb2.jpg",
     "static/media/whats-cooking.jpg": "/my-portfolio2.0/static/media/whats-cooking.460584db709ec4d6a197.jpg",
     "static/media/note-taker.jpg": "/my-portfolio2.0/static/media/note-taker.af83a80639c744d3eb89.jpg",
@@ -11,12 +11,12 @@
     "static/media/quiz-challenge.jpg": "/my-portfolio2.0/static/media/quiz-challenge.f85049922d9a915528c4.jpg",
     "static/media/weather-app.jpg": "/my-portfolio2.0/static/media/weather-app.0f15dc2bd0421010bfec.jpg",
     "index.html": "/my-portfolio2.0/index.html",
-    "main.5344134a.css.map": "/my-portfolio2.0/static/css/main.5344134a.css.map",
-    "main.9147a512.js.map": "/my-portfolio2.0/static/js/main.9147a512.js.map",
+    "main.6d3b8b39.css.map": "/my-portfolio2.0/static/css/main.6d3b8b39.css.map",
+    "main.8c046904.js.map": "/my-portfolio2.0/static/js/main.8c046904.js.map",
     "787.1ee55212.chunk.js.map": "/my-portfolio2.0/static/js/787.1ee55212.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5344134a.css",
-    "static/js/main.9147a512.js"
+    "static/css/main.6d3b8b39.css",
+    "static/js/main.8c046904.js"
   ]
 }
