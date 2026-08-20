@@ -95,7 +95,7 @@ function Projects() {
                         <p className='description'> 'Book Search Engine' is an application designed for users to search for books they may like to read. Users can sign-up/login 
                             and save their selected books to their personal profiles. Users are able to view authors and description of books. Users can always return later to 
                             decide which book they may want to read next or decide to delete books they are no longer interested in. </p>
-                        <p className='tech-stack'>Tech Stack: HTML5 | CSS | Javascript | MongoDB | Express.js | React.js | Node.js </p> 
+                        <p className='tech-stack'>Tech Stack: React.js | CSS | MongoDB | Express.js | Node.js </p> 
                         <p className='live-demo'>Live Demo:  <a href="https://www.dropbox.com/scl/fi/v1kdygtng8rsp90j9dlj9/BookSearchEngineDemo.mp4?rlkey=3kvg6b1xvtvasgxg14z6bvfmg&st=sa3hnnt3&dl=0" className="demo-link">Book Search Engine Demo</a> </p>
                         
                     </div>
